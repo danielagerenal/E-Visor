@@ -1,0 +1,16 @@
+entity_id,cluster_mes_7,cluster_mes_8,cluster_mes_9,cluster_mes_10
+SmartMeter_SM_B10_ARQ,1,1,0,0
+SmartMeter_SM_B12_DERE,1,0,1,0
+SmartMeter_SM_B15_BIBL,1,1,1,1
+SmartMeter_SM_B17_POLI,1,1,1,1
+SmartMeter_SM_B18_PARQ,0,1,0,1
+SmartMeter_SM_B3_RECT,1,0,1,1
+SmartMeter_SM_B4_PRIM,1,1,0,1
+SmartMeter_SM_B5_BACH,1,0,1,1
+SmartMeter_SM_B7_CTIC,1,0,1,1
+SmartMeter_SM_B8_AA,0,1,1,1
+SmartMeter_SM_B8_CPA,0,1,1,1
+SmartMeter_SM_B8_LABS,1,1,1,1
+SmartMeter_SM_B9_SFA1,1,0,1,1
+SmartMeter_SM_B9_SFA2,1,1,1,1
+SmartMeter_SM_ECOVILLA,0,1,1,0
